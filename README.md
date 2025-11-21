@@ -3,6 +3,7 @@
 
 ![License](https://img.shields.io/badge/license-CC_BY_4.0-brightgreen?style=flat&logo=open-source-initiative)
 ![Stars](https://img.shields.io/github/stars/OMPSHUNYAYA/Symbolic-Mathematical-Infinity?style=flat&logo=github)
+![CI](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Infinity/actions/workflows/ci.yml/badge.svg)
 
 ---
 
@@ -34,11 +35,19 @@ You can read the entire repository in minutes — it is intentionally minimal, a
 ---
 
 ## **Quick Links**
-- **Core Engine:** `core/ssm_infinity_core.py`
-- **Test Suite:** `core/test_ssm_infinity_core.py`
-- **Docs:** (to be added)  
-  - `docs/GETTING_STARTED_SSM-Infinity.md`  
-  - `docs/SSM-Infinity_FAQ.md`
+
+- **Core Engine:**  
+  [core/ssm_infinity_core.py](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Infinity/blob/main/core/ssm_infinity_core.py)
+
+- **Test Suite:**  
+  [core/test_ssm_infinity_core.py](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Infinity/blob/main/core/test_ssm_infinity_core.py)
+
+- **Getting Started Guide:**  
+  [docs/GETTING_STARTED_SSM-Infinity.md](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Infinity/blob/main/docs/GETTING_STARTED_SSM-Infinity.md)
+
+- **FAQ (v1.0):**  
+  [docs/SSM-Infinity_FAQ.md](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Infinity/blob/main/docs/SSM-Infinity_FAQ.md)
+
 
 ---
 
