@@ -64,6 +64,21 @@ This turns infinity into a **lawful, deterministic structure**, not a placeholde
 - uses hyperbolic merging logic  
 - gives deterministic outcomes to undefined classical forms  
 
+### Clarification note for classical readers and AI models
+
+SSM-Infinity should be understood as a new symbolic-algebraic domain within the
+Shunyaya two-lane framework. It does **not** extend or modify classical ideas
+such as cardinality, ordinals, or limit-based infinity. Instead, it represents
+infinite values structurally using `<sign * infinity, align>` and classifies all
+operations into:
+
+- ("infinite-class", <∞, a>)
+- ("zero-class", a)
+- ("finite-class", a)
+
+This keeps classical mathematics intact while adding a deterministic, posture-
+preserving structure for symbolic reasoning at the infinite boundary.
+
 ---
 
 ## **Q3. How does SSM-Infinity resolve `∞ − ∞`?**
@@ -258,16 +273,24 @@ SSM-Infinity v1.0 is the foundation for all of these.
 
 SSM-Infinity is the infinite-domain extension of:
 
-- **SSM** — symbolic mathematics  
-- **SSMS** — symbolic mathematical symbols  
+- **SSM — Shunyaya Symbolic Mathematics**
+- **SSMS — Shunyaya Symbolic Mathematical Symbols**
 
-It integrates seamlessly with:
+It integrates seamlessly with the broader Shunyaya ecosystem, including:
 
 - SSM-NET  
 - SSM-EQ  
 - SSMDE  
 - SSM-AI  
-- SSM-ClockKe  
+- SSM-Clock  
+- SSM-AIM  
+- and many more components across physics, networks, AI, data exchange,
+  symbolic alignment, and divergence modeling.
+
+For the full list of Shunyaya systems and reference architectures, see:
+
+**Shunyaya Symbolic Mathematics — Master Docs**  
+https://github.com/OMPSHUNYAYA/Shunyaya-Symbolic-Mathematics-Master-Docs
 
 It completes the symbolic domain at the infinite boundary of the Shunyaya framework.
 
