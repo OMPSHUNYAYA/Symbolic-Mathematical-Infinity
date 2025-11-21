@@ -25,4 +25,4 @@ jobs:
 
     - name: Run SSM-Infinity test suite
       run: |
-        python test_ssm_infinity_core.py
+        python core/test_ssm_infinity_core.py
